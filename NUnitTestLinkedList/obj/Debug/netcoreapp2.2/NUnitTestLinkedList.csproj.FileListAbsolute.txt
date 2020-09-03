@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\bin\Debug\netcoreapp2.2\NUnitTestLinkedList.deps.json
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\bin\Debug\netcoreapp2.2\NUnitTestLinkedList.runtimeconfig.json
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\bin\Debug\netcoreapp2.2\NUnitTestLinkedList.runtimeconfig.dev.json
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\bin\Debug\netcoreapp2.2\NUnitTestLinkedList.dll
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\bin\Debug\netcoreapp2.2\NUnitTestLinkedList.pdb
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\bin\Debug\netcoreapp2.2\LinkedListApp.dll
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\bin\Debug\netcoreapp2.2\LinkedListApp.pdb
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\obj\Debug\netcoreapp2.2\NUnitTestLinkedList.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\obj\Debug\netcoreapp2.2\NUnitTestLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\obj\Debug\netcoreapp2.2\NUnitTestLinkedList.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\obj\Debug\netcoreapp2.2\NUnitTestLinkedList.AssemblyInfo.cs
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\obj\Debug\netcoreapp2.2\NUnitTestLinkedList.csproj.CopyComplete
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\obj\Debug\netcoreapp2.2\NUnitTestLinkedList.dll
+C:\Users\admin\Desktop\LinkedListApp\NUnitTestLinkedList\obj\Debug\netcoreapp2.2\NUnitTestLinkedList.pdb
